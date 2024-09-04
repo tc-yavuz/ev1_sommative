@@ -2,12 +2,15 @@
 
 ## Qui ?
 
-(Auteur, Équipe)
+### Daily tous les jours
 
-Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre. 
+Nom(s) de l'auteur ou des auteurs :
 
-* Mouna Andraos (Direction de création)
-* Melissa Mongiat (Direction de création)
+* Mouna Andraos
+* Melissa Mongiat
+
+Équipe de production :
+  
 * Michael Carosello (Équipe de création)
 * Ajmir Kandola (Équipe de création)
 * Rebecca Taylor (Équipe de création)
@@ -21,27 +24,46 @@ Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
 * Mathieu Frenette (Direction technique)
 * Stu Wershof (Production)
 * Manuel Acevado Civantes (Assemblage)
-
-Équipe de production : Si l'œuvre a été réalisée par une équipe, nommez les membres clés et leur rôle (réalisateur, compositeur, programmeur, etc.).
+* Vladimir Antaki (Images)
+* Lili Shawwah (Communication)
 
 Collaborateurs et partenaires : 
 
 * SSSVLL (Collaboration design)
 * Générique Design (Design industriel)
+* Atelier Mesure (Fabrication)
+* Atelier Papineau (Fabrication)
+* Scène éthique (Fabrication)
+* Atelier Double Effet (Fabrication)
+* Mathieu Frenette (Fabrication)
+* CVG Consulting (Logistique)
+* Un merci particulier aux logisticiens sur place
+* Un grand merci à:
+* Ernesta (Tout le monde chez 5Vie Network)
+* Emanuele (Tout le monde chez 5Vie Network)
+* Elisabeta (Tout le monde chez 5Vie Network)
+* Carlota (Tout le monde chez 5Vie Network)
+* Mateo et Mateo (Tout le monde chez 5Vie Network)
+* Anna Carnick
+* Chris Fusaro
+* Matei et Another View Projects
+* Ce projet a été rendu possible grâce au gouvernement du Canada.
 
 ## Quand ?
 (Date de création et de présentation)
 
-Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
-Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
+Date de création : Créée en 2024 pour le Fuorisalone de Milan, dans le cadre de l’Unlimited Design.
+Date de première présentation : Elle a été présentée pour la première fois en Itali, Milan le 15 avril 2024
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 
 ## Où ?
 (Contexte de présentation)
 
-Lieu de présentation initiale : Mentionnez l'endroit où l'œuvre a été présentée pour la première fois (galerie, musée, festival, en ligne, etc.).
+*village numerique mtl*
+
+Lieu de présentation initiale : L’oeuvre est présentée pour la première fois au Fuorisalone de Milan, dans le cadre de l’Unlimited Design Orchestra du 5Vie Network.
 Contexte géographique et culturel : Donnez des détails sur le cadre culturel ou géographique qui a influencé la présentation de l'œuvre. Par exemple, si l'œuvre a été conçue pour un public spécifique ou si elle reflète des aspects culturels particuliers.
-Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs endroits, énumérez ces lieux avec les dates correspondantes.
+Autres lieux de présentation : Il est aussi présenté au village numérique à Montréal.
 
 ## Quoi ?
 (Description de l'œuvre)
