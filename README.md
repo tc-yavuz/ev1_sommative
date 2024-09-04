@@ -1,18 +1,33 @@
 # Duetti: Mobili musicali
 
 ## Qui ?
+
 (Auteur, Équipe)
 
 Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre. 
 
 * Mouna Andraos (Direction de création)
 * Melissa Mongiat (Direction de création)
-* Michael Carosello
-* Ajmir Kandola
-* Rebecca Taylor
+* Michael Carosello (Équipe de création)
+* Ajmir Kandola (Équipe de création)
+* Rebecca Taylor (Équipe de création)
+* Anne Ouellette (Équipe de création)
+* Florence Peters (Équipe de création)
+* Michael Baker (Équipe de création)
+* Eva Schindling (Équipe de création)
+* Michael Baker (Direction sonore)
+* Eva Schindling (Direction technologique)
+* Renaud Vincent (Direction technologique)
+* Mathieu Frenette (Direction technique)
+* Stu Wershof (Production)
+* Manuel Acevado Civantes (Assemblage)
 
 Équipe de production : Si l'œuvre a été réalisée par une équipe, nommez les membres clés et leur rôle (réalisateur, compositeur, programmeur, etc.).
-Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
+
+Collaborateurs et partenaires : 
+
+* SSSVLL (Collaboration design)
+* Générique Design (Design industriel)
 
 ## Quand ?
 (Date de création et de présentation)
