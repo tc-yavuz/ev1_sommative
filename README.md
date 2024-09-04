@@ -1,7 +1,23 @@
 # Qui ?
 (Auteur, Équipe)
 
-Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
+Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre. 
+
+* Bart Simon (Co-directeur)
+* Darren Wershler (Co-directeur)
+* Jason Edward Lewis (co-directeur)
+* Gina Haraszti (Vidéographie et Design)
+* Stuart Thiel (Chef de l’équipe de développement)
+* Nicholas Watson (Consultant en technologie)
+* Remi Arora (Chef de projet, LITL)
+* Michael Iantorno (Chercheur diplômé)
+* Angelica Calcagnile (Chercheuse de premier cycle)
+* Theodore Fox (chercheur de premier cycle)
+* Andrew Rochon (chercheur de premier cycle)
+* Nat Torre (chercheur de premier cycle)
+* Richy Srirachanikorn (Chercheur diplômé)
+* Derek Pasborg (Chercheur diplômé)
+
 Équipe de production : Si l'œuvre a été réalisée par une équipe, nommez les membres clés et leur rôle (réalisateur, compositeur, programmeur, etc.).
 Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
