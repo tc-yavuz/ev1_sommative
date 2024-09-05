@@ -53,7 +53,7 @@ Collaborateurs et partenaires :
 (Date de création et de présentation)
 
 Date de création : Créée en 2024 pour le Fuorisalone de Milan, dans le cadre de l’Unlimited Design.
-Date de première présentation : Elle a été présentée pour la première fois en Itali, Milan le 15 avril 2024
+Date de première présentation : Elle a été présentée pour la première fois en Italie, Milan le 15 avril 2024
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 
 ## Où ?
@@ -63,7 +63,7 @@ Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, co
 
 Lieu de présentation initiale : L’oeuvre est présentée pour la première fois au Fuorisalone de Milan, dans le cadre de l’Unlimited Design Orchestra du 5Vie Network.
 Contexte géographique et culturel : Donnez des détails sur le cadre culturel ou géographique qui a influencé la présentation de l'œuvre. Par exemple, si l'œuvre a été conçue pour un public spécifique ou si elle reflète des aspects culturels particuliers.
-Autres lieux de présentation : Il est aussi présenté au village numérique à Montréal.
+Autres lieux de présentation : Il est aussi présenté au village numérique au Boulevard de Maisonneuve et Rue Clark.
 
 ## Quoi ?
 (Description de l'œuvre)
