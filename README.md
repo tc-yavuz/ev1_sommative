@@ -88,7 +88,7 @@ Son interaction musicale réactive.
 ### Fonctionnement
 Cette composante interactive joue un rôle clé en transformant l’expérience utilisateur en une interaction artistique active, crée une atmosphère apaisante et thérapeutique et en contribuant à créer des moments d’exploration collective dans un espace quotidien.
 
-###Impact
+### Impact
 Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
 
 ---
