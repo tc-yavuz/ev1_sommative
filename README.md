@@ -32,6 +32,8 @@
 * Network: Ernesta, Emanuele, Elisabeta, Carlota, Mateo and Mateo, along with Anna Carnick, Chris Fusaro, Matei et Another View Projects
 * Ce projet a été rendu possible grâce au gouvernement du Canada.
 
+---
+
 ## Quand ?
 
 ### Date de création
@@ -43,6 +45,8 @@ Elle a été présentée pour la première fois en Italie, Milan le 15 avril 202
 ### Dates importantes
 Duetti: Mobili Musicali dans le top 10 des Fuorisalone Awards 2024.
 
+---
+
 ## Où ?
 
 ### Lieu de présentation initiale
@@ -53,6 +57,8 @@ Créée en 2024 pour le Fuorisalone de Milan, dans le cadre de l’Unlimited Des
 
 ### Autres lieux de présentation
 Le Parterre, Quartier des spectacles, Boulevard de Maisonneuve et Rue Clark.
+
+---
 
 ## Quoi ?
 
@@ -72,6 +78,8 @@ Décrivez les aspects techniques importants, comme les technologies utilisées, 
 ### Processus de création
 Fournissez des détails sur la manière dont l'œuvre a été développée. Cela peut inclure des éléments comme l'écriture du scénario, la composition musicale, la programmation, etc.
 
+---
+
 ## Comment ?
 
 ### Composante centrale
@@ -82,6 +90,8 @@ Cette composante interactive joue un rôle clé en transformant l’expérience 
 
 ###Impact
 Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
+
+---
 
 ## Appréciation et commentaire personnel
 
