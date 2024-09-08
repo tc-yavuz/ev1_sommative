@@ -73,10 +73,10 @@ L'objectif de l’oeuvre est de créer une atmosphère apaisante, réactive et g
 Les personnes qui aiment la musique et des animations lumineuses.
 
 ### Aspects techniques
-Décrivez les aspects techniques importants, comme les technologies utilisées, les supports ou les médiums exploités.
+Ils ont des capteurs de mouvement et de pression, des haut-parleurs, un banc.
 
 ### Processus de création
-Fournissez des détails sur la manière dont l'œuvre a été développée. Cela peut inclure des éléments comme l'écriture du scénario, la composition musicale, la programmation, etc.
+Il n'y a pas de détail sur le processus.
 
 ---
 
@@ -95,4 +95,4 @@ Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi 
 
 ## Appréciation et commentaire personnel
 
-( Pourquoi avoir choisi cette oeuvre)
+J'ai choisi cette oeuvre, car j'aime la musique et l'atmosphere apaisante et thérapeutique que l'oeuvre fait ressentir.
