@@ -89,7 +89,7 @@ Son interaction musicale réactive.
 Cette composante interactive joue un rôle clé en transformant l’expérience utilisateur en une interaction artistique active, crée une atmosphère apaisante et thérapeutique et en contribuant à créer des moments d’exploration collective dans un espace quotidien.
 
 ### Impact
-Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
+Le mélange de musique et de lumière interactif crée une expérience divertissante et immersive. Les spectateurs ne font pas que d'écouter ou de regarder, mais ils vivent une interaction inoubliable qui les plonge dans un univers qui stimule de nouvelles émotions.
 
 ---
 
