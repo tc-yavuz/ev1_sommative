@@ -29,7 +29,7 @@
 * Logistique: CVG Consulting 
 * Un merci particulier: aux logisticiens sur place
 * Un grand merci à: Tout le monde chez 5Vie, 
-* Network: Ernesta, Emanuele, Elisabeta, Carlota, Mateo and Mateo, along with Anna Carnick, Chris Fusaro, Matei et Another View Projects
+* Network: Ernesta, Emanuele, Elisabeta, Carlota, Mateo et Mateo, Anna Carnick, Chris Fusaro, Matei et Another View Projects
 * Ce projet a été rendu possible grâce au gouvernement du Canada.
 
 ---
@@ -56,7 +56,7 @@ Fuorisalone de Milan, dans le cadre de l’Unlimited Design Orchestra du 5Vie Ne
 Créée en 2024 pour le Fuorisalone de Milan, dans le cadre de l’Unlimited Design.
 
 ### Autres lieux de présentation
-Le Parterre, Quartier des spectacles, Boulevard de Maisonneuve et Rue Clark.
+Village Numérique, Quartier des spectacles.
 
 ---
 
@@ -66,7 +66,7 @@ Le Parterre, Quartier des spectacles, Boulevard de Maisonneuve et Rue Clark.
 Deux archétypes urbains interactifs encouragent les compositions collectives : Duetti présente un banc berçant jouant de la musique apaisante et une borne qui transforme l’acte de marcher en danse. Déclenchées par le public, les mouvements synchrones créent des harmonies, encourageant la collaboration. 
 ![Banc](https://static.dailytouslesjours.com/files/2024/04/Duetti_night_3_createdByDailytlj_photoByVladimirAntaki_Low-984x653.jpeg)
 
-### Objectifs de l'œuvre
+### Objectifs de l'oeuvre
 L'objectif de l’oeuvre est de créer une atmosphère apaisante, réactive et générative qui encourage une exploration et une interaction soutenues entre les visiteurs. L’approche multi-sensorielle de Duetti apporte une dimension sociale et thérapeutique dans la conception d’espaces publics.
 
 ### Public cible
@@ -84,11 +84,11 @@ Il n'y a pas de détail sur le processus.
 
 ## Comment ?
 
-### Composante centrale
-Son interaction musicale réactive.
+### Composante
+Le banc et le bollard sont équipés de capteurs qui captent les sons ou les vibrations produits lorsque ces objets sont touchés ou manipulés. Ces capteurs sont reliés à un système de traitement sonore.
 
 ### Fonctionnement
-Cette composante interactive joue un rôle clé en transformant l’expérience utilisateur en une interaction artistique active, crée une atmosphère apaisante et thérapeutique et en contribuant à créer des moments d’exploration collective dans un espace quotidien.
+Lorsqu'un participant interagit avec le banc ou le bollard, les capteurs captent ces actions. Les capteurs mesurent les changements dans les vibrations ou les sons produits par les objets.
 
 ### Impact
 Le mélange de musique et de lumière interactif crée une expérience divertissante et immersive. Les spectateurs ne font pas que d'écouter ou de regarder, mais ils vivent une interaction inoubliable qui les plonge dans un univers qui stimule de nouvelles émotions.
