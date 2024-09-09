@@ -74,6 +74,7 @@ Les personnes qui aiment la musique et des animations lumineuses.
 
 ### Aspects techniques
 Ils ont des capteurs de mouvement et de pression, des haut-parleurs, un banc.
+![Bollard](https://static.dailytouslesjours.com/files/2024/04/Duetti_4_createdByDailytlj_photoByVladimirAntaki_Low.jpeg)
 
 ### Processus de création
 Il n'y a pas de détail sur le processus.
